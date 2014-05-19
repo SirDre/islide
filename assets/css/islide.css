@@ -50,11 +50,9 @@
     overflow: hidden;
 }
 
-.islide .iarrow {
-    height: 32px;
-    width: 32px;
+.islide .fa-arrow-circle-o-down {
+    font-size: 30px;
     cursor: pointer; 
-    background: url(downarrow.png) no-repeat;
     z-index: 1000;
     position: absolute;
     top: 250px;
