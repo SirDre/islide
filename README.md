@@ -45,9 +45,4 @@ Define HTML tags
 				</div> 
 			</div>
 			
-			
-Define in head tag
-======
- 
-   <link href="assets/css/islide.css" rel="stylesheet" type="text/css" media="screen"/>
  
